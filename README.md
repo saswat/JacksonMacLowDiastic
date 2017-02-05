@@ -9,6 +9,6 @@ Example:
 
   seed word: saswat
   
-  sample output: <b>S</b>eptember W<b>a</b>r wa<b>s</b> kno<b>w</b>n prim<b>a</b>rily muske<b>t</b>s, 
+  sample output: <b>S</b>eptember W<b>a</b>r wa<b>s</b> kno<b>w</b>n prim<b>a</b>rily muske<b>t</b>s, (using words from a random page on wikipedia, here it is the civil war article.)
   
 So First word that with first letter S, Second word with second letter A, Third word with  third letter S, etc.
