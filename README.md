@@ -1,7 +1,7 @@
 # JacksonMacLowDiastic
 Following along with coding rainbow videos. 
 
-https://sas-wat.github.io/JacksonMacLowDiastic/04diasticmachine/index.html
+https://pandasaswat.github.io/JacksonMacLowDiastic/04diasticmachine/index.html
 
 This uses a seed word to select words from a source text to make poetry, using an algorithm. 
 The algorithm uses the seed word to find words which fit a certain pattern. 
