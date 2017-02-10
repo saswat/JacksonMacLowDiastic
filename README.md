@@ -17,5 +17,5 @@ So First word that with first letter S, Second word with second letter A, Third 
 <h1>Objectives</h1>
 
 1. My goals are to fix this so it doesn't just use a default word bank but finds a random wikipedia page.
-2. I think that approach will also make it easier to remove references (e.g., [12]) so there are no random numbers in the final output.
-3. Maybe then I can tweet random things (?)
+2. I think that approach will also make it easier to remove references, without having to use regexps (e.g., [12]) so there are no random numbers in the final output.
+3. Maybe then I can use this code to send random tweets.
