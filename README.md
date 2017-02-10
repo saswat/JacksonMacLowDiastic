@@ -8,12 +8,14 @@ The algorithm uses the seed word to find words which fit a certain pattern.
 The order of characters in the seed word are used to find words which have that character in that same location.
 
 Example: 
-
   seed word: saswat
-  
-  sample output: <b>S</b>eptember W<b>a</b>r wa<b>s</b> kno<b>w</b>n prim<b>a</b>rily muske<b>t</b>s, (using words from a random page on wikipedia, here it is the civil war article.)
+  sample output: <b>S</b>eptember W<b>a</b>r wa<b>s</b> kno<b>w</b>n prim<b>a</b>rily muske<b>t</b>s, (using words from a random
+  page on wikipedia, here it is the civil war article.)
   
 So First word that with first letter S, Second word with second letter A, Third word with  third letter S, etc.
 
+<h1>Objectives</h1>
 
-Will edit later to use random wiki page instead of default text.
+1. My goals are to fix this so it doesn't just use a default word bank but finds a random wikipedia page.
+2. I think that approach will also make it easier to remove references (e.g., [12]) so there are no random numbers in the final output.
+3. Maybe then I can tweet random things (?)
